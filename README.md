@@ -25,5 +25,6 @@
   <img align="center" alt="Bruno-OpenCV" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" />
 
 </PT>
-
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BrunoDias2003/BrunoDias2003/output/github-contribution-grid-snake.svg">
+<div>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BrunoDias2003/BrunoDias2003/output/github-contribution-grid-snake.svg">
+</div>
