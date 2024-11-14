@@ -26,4 +26,7 @@
 
 </PT>
 
-![Snake animation](https://github.com/BrunoDias2003)
+<div>
+  ![Snake animation](https://github.com/BrunoDias2003)
+</div>
+  
