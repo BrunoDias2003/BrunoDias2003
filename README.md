@@ -26,5 +26,4 @@
 
 </PT>
 
-![Snake animation](https://github.com/BrunoDias2003)
-  
+![Snake animation](https://github.com/BrunoDias2003/output/github-contribution-grid-snake.svg)  
