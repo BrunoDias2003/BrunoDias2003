@@ -26,4 +26,4 @@
 
 </PT>
 
-![snake gif](https://github.com/BrunoDias2003/BrunoDias2003/blob/output/github-contribution-grid-snake.svg)
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BrunoDias2003/BrunoDias2003/output/github-contribution-grid-snake.svg">
