@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning nothing
-- 👯 I’m looking to collaborate with no one
-- 📫 How to reach me, u don't
-- 😄 Pronouns: WTF
 
 
 <div>
